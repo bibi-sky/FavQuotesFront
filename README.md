@@ -18,9 +18,6 @@
 - **TypeScript**: A superset of JavaScript that enhances development with static typing.
 - **ngx-toastr**: A library for displaying non-blocking notifications for success and error messages.
 
-## 🚀 Live demo
-You can see  a live example of this aplication [here](https://fav-quotes.netlify.app/)
-
 
 ## ⚒️Development server
 
